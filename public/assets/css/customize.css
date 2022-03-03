@@ -1,0 +1,59 @@
+/*===========================
+    1. Theme customize css
+===========================*/
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800|Playfair+Display:400,400italic,700,700italic);
+@import url(href=//fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800);
+.main-slider-img-radius {
+    border-radius: 100%;
+    width: 230px;
+    height: 230px;
+}
+
+.holderCircle {
+    margin-left: 20% !important;
+}
+
+.img-bg {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+}
+
+.img-bg-property {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+/***-----Start Text around Image------*/
+
+.wrapper {
+    /*  column-count: 2;
+     column-gap: 50px; */
+    padding: 50px;
+}
+
+p {
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+}
+
+.star {
+    float: left;
+    width: 330px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.img-wrapper {
+    width: 40%;
+}
+
+.font-family {
+    font-family: Open Sans !important;
+}
+
+
+/***-----End Text around Image------*/

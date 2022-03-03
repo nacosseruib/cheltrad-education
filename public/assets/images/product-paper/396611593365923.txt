@@ -1,0 +1,12 @@
+ CHELTRAD.CO.UK
+
+
+DATABASE INFORMATION
+
+DABASE Description: cheltrad_db
+DATABASE NAME: dbs547513
+PASSWORD: chelTrad_48*#
+HOST NAME: db5000569817.hosting-data.io
+PORT: 3306
+USERNAME: dbu535497
+Type and version: MySQL 5.7

@@ -1,0 +1,616 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) {
+
+.banner{
+    height: 800px;
+}
+
+
+
+}
+
+
+/* Normal Laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1400px) {
+
+
+
+
+.causes-siled .slick-arrow {
+	left: -65px;
+}
+.causes-siled .slick-arrow.next {
+	right: -65px;
+}
+.causes-siled .slick-arrow i {
+	width: 50px;
+	height: 50px;
+	line-height: 46px;
+}
+
+
+
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+.main-btn {
+	padding: 0 28px;
+	font-size: 14px;
+	line-height: 48px;
+    height: 50px;
+}
+
+.navbar .navbar-nav .nav-item {
+	margin-right: 20px;
+}
+.navbar .navbar-nav .nav-item a {
+	font-size: 15px;
+}
+.banner-cont .donate-box .donate-form input {
+	width: 245px;
+}
+
+.causes-siled .slick-arrow {
+	left: -65px;
+}
+.causes-siled .slick-arrow.next {
+	right: -65px;
+}
+.causes-siled .slick-arrow i {
+	width: 50px;
+	height: 50px;
+	line-height: 46px;
+}
+
+.singel-event .event-cont {
+	padding: 15px 20px;
+}
+.singel-event .event-cont .event-head .event-title a {
+	font-size: 18px;
+	line-height: 27px;
+}
+
+.singel-volunteer .volunteer-name-social .cont .volunteer-name a {
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+
+.navbar .navbar-collapse {
+	position: absolute;
+	top: 145%;
+	left: 0;
+	width: 100%;
+	background-color: #fff;
+	padding: 5px 15px;
+    z-index: 9;
+}
+
+.navbar .navbar-nav .nav-item {
+	margin: 0;
+}
+
+.navbar .navbar-btn {
+	position: absolute;
+	top: 0;
+	right: 70px;
+}
+
+.navbar .navbar-btn .main-btn {
+	height: 45px;
+	line-height: 43px;
+	padding: 0 30px;
+}
+
+.navbar .navbar-nav .nav-item a::before {
+	display: none;
+}
+
+.navbar .navbar-nav .nav-item a {
+	display: block;
+	padding: 8px 0;
+}
+.navbar .navbar-nav .nav-item .sub-menu {
+	position: relative !important;
+	width: 100% !important;
+	left: 0 !important;
+	top: auto !important;
+	opacity: 1 !important;
+	visibility: visible !important;
+	display: none;
+	right: auto;
+	-webkit-transition: none;
+	transition: none;
+	-webkit-transform: translateX(0%);
+	transform: translateX(0%);
+	text-align: left;
+}
+
+.sub-nav-toggler {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	padding: 7px 11px;
+    color: #333;
+    font-size: 16px;
+    background-color: #dfdfdf;
+}
+
+
+.causes-siled .slick-arrow {
+	left: -50px;
+}
+.causes-siled .slick-arrow.next {
+	right: -50px;
+}
+.causes-siled .slick-arrow i {
+	width: 40px;
+	height: 40px;
+	line-height: 36px;
+    font-size: 24px;
+}
+
+.page-content {
+	padding-top: 200px;
+	padding-bottom: 90px;
+}
+
+.video-icon a {
+	width: 90px;
+	height: 90px;
+	line-height: 90px;
+    font-size: 30px;
+}
+
+
+
+#about-part {
+	padding-top: 50px;
+	padding-bottom: 95px;
+}
+#services-part {
+	padding-top: 90px;
+	padding-bottom: 100px;
+}
+#causes-part {
+	padding-top: 90px;
+	padding-bottom: 85px;
+}
+
+#donation-part {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+#events-part {
+	padding-top: 90px;
+	padding-bottom: 60px;
+}
+
+#gallery-part {
+	padding-top: 90px;
+	padding-bottom: 100px;
+}
+#counter-part {
+	padding-top: 60px;
+	padding-bottom: 95px;
+}
+#volunteer-part {
+	padding-top: 90px;
+	padding-bottom: 100px;
+}
+
+#testimonials-part {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#blog-part {
+	padding-top: 90px;
+	padding-bottom: 100px;
+}
+
+.widget {
+	padding-top: 60px;
+	padding-bottom: 100px;
+}
+#about-page {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+#video-part {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#causes-page {
+	padding-top: 70px;
+	padding-bottom: 85px;
+}
+
+#blog-page,
+#blog-details-page {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.blog-comment {
+	padding-top: 95px;
+}
+
+#contact-page {
+	padding-top: 65px;
+	padding-bottom: 100px;
+}
+.contact-form-map {
+	padding-top: 45px;
+}
+
+
+
+}
+
+
+/* Large Mobile :576px. */
+@media only screen and  (max-width: 767.98px) {
+
+
+.section-title h2 {
+	padding-bottom: 10px;
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.navbar .navbar-collapse {
+	position: absolute;
+	top: 145%;
+	left: 0;
+	width: 100%;
+	background-color: #fff;
+	padding: 5px 15px;
+    z-index: 9;
+}
+
+.navbar .navbar-nav .nav-item {
+	margin: 0;
+}
+
+.navbar .navbar-btn {
+	position: absolute;
+	top: 0;
+	right: 70px;
+}
+
+.navbar .navbar-btn .main-btn {
+	height: 45px;
+	line-height: 43px;
+	padding: 0 30px;
+}
+
+.navbar .navbar-nav .nav-item a::before {
+	display: none;
+}
+
+.navbar .navbar-nav .nav-item a {
+	display: block;
+	padding: 8px 0;
+}
+.navbar .navbar-nav .nav-item .sub-menu {
+	position: relative !important;
+	width: 100% !important;
+	left: 0 !important;
+	top: auto !important;
+	opacity: 1 !important;
+	visibility: visible !important;
+	display: none;
+	right: auto;
+	-webkit-transition: none;
+	transition: none;
+	-webkit-transform: translateX(0%);
+	transform: translateX(0%);
+	text-align: left;
+}
+
+.sub-nav-toggler {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+	padding: 7px 11px;
+    color: #333;
+    font-size: 16px;
+    background-color: #dfdfdf;
+}
+
+
+
+.banner {
+	height: 600px;
+}
+
+.banner-cont .banner-title {
+	font-size: 34px;
+	line-height: 44px;
+}
+.banner-cont p {
+	padding-right: 0;
+}
+
+.about-cont .about-title {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.about-cont .option ul {
+	width: 100%;
+    float: none;
+}
+
+.singel-causes .causes-thum .percentise {
+    right: 20px;
+	-webkit-transform: translateY(40%);
+	transform: translateY(40%);
+}
+.singel-causes .causes-thum .percentise span {
+	font-size: 18px;
+	width: 65px;
+	height: 65px;
+	line-height: 55px;
+}
+
+.right-side .donation-title {
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.right-side .raise-goal .rangeslider--horizontal {
+	width: 95%;
+}
+
+.testimonials .test-thumb {
+	margin-bottom: 0;
+    max-width: 100%;
+}
+.testimonials .testimonials-content {
+	max-width: 100%;
+	float: none;
+}
+
+.copyright-social .social-right ul li {
+	margin: 0 4px;
+}
+.copyright-social .social-right ul li a {
+	font-size: 14px;
+	width: 35px;
+	height: 35px;
+	line-height: 31px;
+}
+
+.page-content {
+	padding-top: 180px;
+	padding-bottom: 70px;
+}
+
+.video-icon a {
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+    font-size: 28px;
+}
+.page-content .page-title {
+	font-size: 32px;
+}
+.page-content ul li a {
+	font-size: 15px;
+}
+
+
+.single-blog-post .blog-content .content .blog-title a {
+	font-size: 18px;
+}
+.single-blog-post .blog-content .content {
+	padding: 15px;
+}
+.single-blog-post .blog-content .meta {
+	padding: 10px 15px;
+}
+
+.single-blog-post .blog-content .meta ul li + li {
+	margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.blog-tag ul li {
+	margin: 15px 3px 0px;
+}
+.blog-tag ul li a {
+	font-size: 14px;
+	padding: 0 25px;
+}
+
+
+
+.blog-details-post .meta ul li + li {
+	margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.blog-details-post .blog-details-title {
+	font-size: 20px;
+}
+
+.blog-details-post .details-content .blockquote {
+	padding: 15px;
+}
+
+.comment-list ul li .single-comment .comment-content {
+	padding-left: 0;
+	padding-top: 20px;
+}
+
+.comment-list ul li .single-comment .comment-content .comment-replay {
+	position: relative;
+	margin-top: 15px;
+}
+.comment-list ul li .replay {
+	padding-left: 30px;
+}
+
+
+
+
+
+#about-part {
+	padding-top: 30px;
+	padding-bottom: 75px;
+}
+#services-part {
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+#causes-part {
+	padding-top: 70px;
+	padding-bottom: 65px;
+}
+
+#donation-part {
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+
+#events-part {
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+
+#gallery-part {
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+#counter-part {
+	padding-top: 40px;
+	padding-bottom: 75px;
+}
+#volunteer-part {
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+
+#testimonials-part {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+#blog-part {
+	padding-top: 70px;
+	padding-bottom: 80px;
+}
+
+.widget {
+	padding-top: 40px;
+	padding-bottom: 80px;
+}
+#about-page {
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+#video-part{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#causes-page {
+	padding-top: 50px;
+	padding-bottom: 65px;
+}
+
+#blog-page,
+#blog-details-page {
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+.blog-comment {
+	padding-top: 75px;
+}
+
+#contact-page {
+	padding-top: 45px;
+	padding-bottom: 80px;
+}
+.contact-form-map {
+	padding-top: 25px;
+}
+
+ 
+}
+
+ 
+/* small mobile :320px. */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.singel-event .event-cont {
+	padding: 15px 20px;
+}
+.singel-event .event-cont .event-head .event-title a {
+	font-size: 18px;
+	line-height: 27px;
+}
+
+.singel-volunteer .volunteer-name-social .cont .volunteer-name a {
+	font-size: 18px;
+}
+
+.testimonials .test-thumb {
+	margin-bottom: -120px;
+	max-width: 380px;
+}
+.testimonials .testimonials-content {
+	max-width: 360px;
+	float: right;
+}
+
+.single-blog-post .blog-content .content {
+	padding: 20px 25px;
+}
+.single-blog-post .blog-content .meta {
+	padding: 10px 25px;
+}
+
+.blog-details-post .blog-details-title {
+	font-size: 24px;
+}
+
+.blog-details-post .details-content .blockquote {
+	padding: 15px 40px;
+}
+.comment-list ul li .single-comment .comment-content {
+	padding-top: 0;
+	padding-left: 25px;
+}
+
+.comment-list ul li .replay {
+	padding-left: 90px;
+}
+
+ 
+}
+ 
+

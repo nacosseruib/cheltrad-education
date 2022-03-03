@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Android\android-sdk
+
+
+flutter channel dev
+flutter upgrade
